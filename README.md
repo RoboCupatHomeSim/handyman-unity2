@@ -13,10 +13,6 @@ Please prepare a common unitypackage in advance.
 For details on how to create the common unitypackage, please see the introduction in the following repository.  
 https://github.com/RoboCupatHomeSim/common-unity2
 
-Please prepare Text-to-Speech DLLs.  
-For details, please see the following repository.  
-https://github.com/RoboCupatHomeSim/console-simple-tts
-
 ## How to Build
 
 ### Import the Common Unitypackage
@@ -64,3 +60,5 @@ https://github.com/RoboCupatHomeSim/ros2-competition-msgs
 2. Double click "Assets/Competition/Handyman/Handyman(.unity)" in Project window.
 3. Click the Play button at the top of the Unity editor.
 
+## Task Creation
+Please see [wiki page](https://github.com/RoboCupatHomeSim/interactive-cleanup-unity2/wiki/AdvancedExecutionProcedures) for more details.  
