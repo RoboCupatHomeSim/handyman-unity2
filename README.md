@@ -50,8 +50,9 @@ SIGVerse window will be opened.
 1. Create a "Build" folder under this project folder.
 1. Open this project with Unity.
 1. Click [File]-[Build Profiles].
-1. Click [Build]
-1. Select the "Build" folder.
+1. Click [Build].
+1. Select the "Build" folder.  
+The build will start.
 1. Copy the "TTS" folder under the "Build" folder.
 
 ## How to Run
