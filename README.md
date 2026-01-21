@@ -6,6 +6,9 @@
 
 This is a Unity project for the Handyman task.
 
+In this task, the robot grasps an object specified in natural language and delivers it to a designated location.  
+This task focuses on natural language understanding.
+
 See also [wiki page](https://github.com/RoboCupatHomeSim/handyman-unity2/wiki).
 
 ## Prerequisites
