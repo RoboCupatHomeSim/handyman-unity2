@@ -65,4 +65,4 @@ https://github.com/RoboCupatHomeSim/ros2-competition-msgs
 3. Click the Play button at the top of the Unity editor.
 
 ## Task Creation
-Please see [wiki page](https://github.com/RoboCupatHomeSim/handyman-unity2/wiki/AdvancedExecutionProcedures) for more details.  
+Please see [wiki page](https://github.com/RoboCupatHomeSim/handyman-unity2/wiki) for more details.  
